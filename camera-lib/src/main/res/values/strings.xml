@@ -1,0 +1,11 @@
+<resources>
+    <string name="usb_permission_failed">Abnormal authorization, please re-authorize by plugging and unplugging the USB interface</string>
+    <string name="cannot_find_usb">"The USB camera is not recognized, please check the connection"</string>
+    <string name="text_canot_find_match_face_mask">The mask resource that matches the resolution of the current device was not found</string>
+    <string name="text_face_finding">During face detection, please put the face into the recognition area</string>
+    <string name="text_face_verifying">Face detected, recognizing</string>
+    <string name="text_verify_success">Successful face recognition</string>
+    <string name="text_face_verify_failed">Face recognition failed</string>
+    <string name="text_net_error">Face verification failed (abnormal network connection)</string>
+    <string name="testFace64"></string>
+</resources>
